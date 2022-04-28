@@ -8,3 +8,6 @@ public class Main {
     System.out.println("Hello back from Intellij");
     }
 }
+
+
+//tolle neue funktion
