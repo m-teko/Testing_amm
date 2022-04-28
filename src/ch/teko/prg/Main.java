@@ -9,3 +9,6 @@ public class Main {
 	    //von Fabian nach Manuel
     }
 }
+
+
+//tolle neue funktion
